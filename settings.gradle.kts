@@ -24,4 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "mobileApp4_2"
 include(":app")
- 
+include(":mobileapp4_3")
